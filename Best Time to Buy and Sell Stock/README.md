@@ -33,5 +33,6 @@ Return the **maximum profit** you can achieve from this transaction. If you cann
 ## 📚 Source
 - **LeetCode:** [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150)
 
+<br>
 
-*Created by Mohammad AL Tal*
+### Created by Mohammad AL Tal
