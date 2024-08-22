@@ -6,8 +6,6 @@ You want to maximize your profit by choosing a **single day** to buy one stock a
 
 Return the **maximum profit** you can achieve from this transaction. If you cannot achieve any profit, return `0`.
 
----
-
 ## 🔍 Examples
 
 ### Example 1:
@@ -21,23 +19,19 @@ Return the **maximum profit** you can achieve from this transaction. If you cann
 - **Output:** `0`
 - **Explanation:** In this case, no transactions are done and the max profit = 0.
 
----
 
 ## 📝 Constraints
 - `1 <= prices.length <= 10^5`
 - `0 <= prices[i] <= 10^4`
 
----
 
 ## 🔗 Solution Links
 
 - **PHP:** [Try it here](https://www.programiz.com/online-compiler/3K0vuZRaU1f4B)
 
----
 
 ## 📚 Source
 - **LeetCode:** [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150)
 
----
 
-*Created by Mohammad ALTAL*
+*Created by Mohammad AL Tal*
