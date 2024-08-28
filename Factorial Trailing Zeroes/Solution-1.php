@@ -11,7 +11,6 @@ class Solution {
         $count = 0;
         while ($n >= 5) {
             $n = floor($n / 5);
-            echo $n;
             $count += $n;
 
         }
