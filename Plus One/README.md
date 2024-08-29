@@ -28,7 +28,7 @@ Increment the large integer by one and return the resulting array of digits.
 - **Explanation:** The array represents the integer 9.
   Incrementing by one gives 9 + 1 = 10.
   Thus, the result should be [1,0].
-- 
+
 ## 📝 Constraints
 - `1 <= digits.length <= 100`
 - `0 <= digits[i] <= 9`
